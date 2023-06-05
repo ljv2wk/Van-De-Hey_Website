@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Galen Sheely"
+  body-footer: | 
+    ![](/img/banner1.jpg)
+  navbar:
+    right:
+      - href: index.qmd
+        icon: card-heading
+        text: About
+      - href: publications.qmd
+        icon: journals
+        text: Publications & Projects
+      - icon: file-earmark-pdf-fill
+        text: CV
+        href: "https://www.dropbox.com/scl/fi/5l9mdb5howxnfio4f4f66/Sheely_CV_2023.pdf?dl=0&rlkey=0z3hyohylb23wfpepkb11gcqb"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
