@@ -6,6 +6,7 @@ website:
   title: "Galen Sheely"
   body-footer: | 
     ![](/img/banner1.jpg)
+  sidebar: false
   navbar:
     right:
       - href: index.qmd

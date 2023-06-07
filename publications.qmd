@@ -1,13 +1,11 @@
 ---
 title: Publications and Projects
-    
+toc: false
 ---
 
 ## Publications:
 
--   *Elections 2021: Democracy, Voter Confidence, and
-    Electoral Integrity in Virginia.* Paul Freedman, Jennifer L.
-    Lawless, and Galen Sheely. 2022, UVA Karsh Institute of Democracy.
+-   *Elections 2021: Democracy, Voter Confidence, and Electoral Integrity in Virginia.* Paul Freedman, Jennifer L. Lawless, and Galen Sheely. 2022, UVA Karsh Institute of Democracy.
 
 ## Working Projects:
 
