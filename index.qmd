@@ -1,28 +1,25 @@
 ---
-title: Galen Sheely
-image: img/profile1.jpg
+title: Lauren Van De Hey
+image: img/IMG_0195.jpeg
 page-layout: full
 about:
   template: trestles
   image-width: 20em
-  image-shape: round
+  image-shape: rectangle
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/galensheely
     - icon: github
       text: Github
-      href: https://github.com/gms3fp
+      href: https://github.com/ljv2wk
     - icon: mailbox2
       text: Email
-      href: mailto:gms3fp@virginia.edu
+      href: mailto:ljv2wk@virginia.edu
     - icon: file-earmark-pdf-fill
       text: CV
-      href: "https://www.dropbox.com/scl/fi/x5c19ppi3ymif3djcfh69/Sheely_CV.pdf?dl=0&rlkey=xmkk2jto3ioo594vc5yetvgzn"
+      href: "https://www.dropbox.com/scl/fi/r630z12h8rzjzil6jk6xb/Van-De-Hey-Lauren_CV_2023.pdf?rlkey=jylon3kwcqbvm8rl8c61nffex&dl=0"
 ---
 
 ### Hello,
 
-I am a Ph.D. Candidate in the [Department of Politics](https://politics.virginia.edu/) studying American politics at who the [University of Virginia](http://www.virginia.edu/). My dissertation research is supervised by [Justin H. Kirkland](https://jhkirkla.com/) and focuses on the causes and consequence of state election legislation. Prior to studying at UVA, I earned a B.A. in politics with a minor in philosophy from the University of Washington.
+I am a Ph.D. Candidate in the [Department of Politics](https://politics.virginia.edu/) studying American politics at the [University of Virginia](http://www.virginia.edu/). My dissertation research is supervised by [Nick Winter](https://www.nicholasjgwinter.com), [Paul Freedman](https://politics.virginia.edu/freedman), [Justin H. Kirkland](https://jhkirkla.com/), and [Kirill Zhirkvo](https://kirillzhirkov.me) and focuses on the intersection of mental health, political identity, and political behavior. Prior to studying at UVA, I earned a B.A. in political science (with high departmental honors) and a B.S. in general biology from the University of California, San Diego.
 
-My broader research interests include legislative behavior, race and ethnic politics, and research methods. I also work on state and nation-wide polling projects associated with the [Karsh Institute of Democracy](https://karshinstitute.virginia.edu/) and the [Virginia Department of Elections](https://www.elections.virginia.gov/) regarding voting experiences and perceptions of democratic legitimacy.
+My broader research interests include public opinion, political psychology, health politics and policy, race and ethnic politics, and research methods. 
