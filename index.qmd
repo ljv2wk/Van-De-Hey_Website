@@ -15,11 +15,11 @@ about:
       href: mailto:ljv2wk@virginia.edu
     - icon: file-earmark-pdf-fill
       text: CV
-      href: "https://www.dropbox.com/scl/fi/r630z12h8rzjzil6jk6xb/Van-De-Hey-Lauren_CV_2023.pdf?rlkey=jylon3kwcqbvm8rl8c61nffex&dl=0"
+      href: "https://www.dropbox.com/scl/fi/2978486aba9xyomhgyu29/Van-De-Hey-Lauren_CV_2023.pdf?rlkey=1szew1xv6hg0kad6qrmbb96t8&dl=0"
 ---
 
 ### Hello,
 
-I am a Ph.D. Candidate in the [Department of Politics](https://politics.virginia.edu/) studying American politics at the [University of Virginia](http://www.virginia.edu/). My dissertation research is supervised by [Nick Winter](https://www.nicholasjgwinter.com), [Paul Freedman](https://politics.virginia.edu/freedman), [Justin H. Kirkland](https://jhkirkla.com/), and [Kirill Zhirkvo](https://kirillzhirkov.me) and focuses on the intersection of mental health, political identity, and political behavior. Prior to studying at UVA, I earned a B.A. in political science (with high departmental honors) and a B.S. in general biology from the University of California, San Diego.
+I am a Ph.D. Candidate in the [Department of Politics](https://politics.virginia.edu/) studying American politics at the [University of Virginia](http://www.virginia.edu/). My dissertation research is supervised by [Nick Winter](https://www.nicholasjgwinter.com), [Paul Freedman](https://politics.virginia.edu/freedman), [Justin H. Kirkland](https://jhkirkla.com/), and [Kirill Zhirkov](https://kirillzhirkov.me) and focuses on the intersection of mental health, political identity, and political behavior. Prior to studying at UVA, I earned a B.A. in political science (with high departmental honors) and a B.S. in general biology from the University of California, San Diego.
 
 My broader research interests include public opinion, political psychology, health politics and policy, race and ethnic politics, and research methods. 
