@@ -14,7 +14,7 @@ toc: false
 ```{=html}
 <!-- -->
 ```
--   Empirical Studies of Political Obligation: Twenty Years Later (with Samantha Koreman)---research note under review at American Political Science Review
+-   *Empirical Studies of Political Obligation: Twenty Years Later (with Samantha Koreman)---research note under review at American Political Science Review*
 
     -   Presented at the Annual Midwest Political Science Association Conference 2023
 
